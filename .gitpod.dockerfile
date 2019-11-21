@@ -1,2 +1,2 @@
-FROM accetto/ubuntu-vnc-xfce-firefox-plus
+FROM accetto/ubuntu-vnc-xfce-chromium
 
