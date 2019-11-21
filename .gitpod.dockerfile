@@ -1,0 +1,2 @@
+FROM gotget/novnc
+
