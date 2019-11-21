@@ -1,2 +1,2 @@
-FROM dorowu/ubuntu-desktop-lxde-vnc
+FROM accetto/ubuntu-vnc-xfce-firefox-plus
 
